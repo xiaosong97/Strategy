@@ -1,0 +1,180 @@
+common_items_len:3.0
+p_sum:317.0
+this_sum:53.0
+u_sum:16.0
+103.0:121.309521472966
+0.8490677297985525
+common_items_len:3.0
+p_sum:56.0
+this_sum:24.0
+u_sum:6.0
+24.0:24.0
+1.0
+common_items_len:3.0
+0.8490677297985525
+common_items_len:3.0
+1.0
+common_items_len:41.0
+0.24464818849223957
+common_items_len:41.0
+0.7688275369177674
+common_items_len:41.0
+stock1 and stock1:1.0
+common_items_len:41.0
+stock1 and stock2:0.24464818849223957
+common_items_len:41.0
+stock1 and stock3:0.5809519463017401
+common_items_len:41.0
+stock1 and stock4:0.7442215964237597
+common_items_len:41.0
+stock2 and stock1:0.24464818849223957
+common_items_len:41.0
+stock2 and stock2:1.0
+common_items_len:41.0
+stock2 and stock3:0.010676463600379672
+common_items_len:41.0
+stock2 and stock4:0.05680229521341071
+common_items_len:41.0
+stock3 and stock1:0.5809519463017401
+common_items_len:41.0
+stock3 and stock2:0.010676463600379672
+common_items_len:41.0
+stock3 and stock3:1.0
+common_items_len:41.0
+stock3 and stock4:0.7688275369177674
+common_items_len:41.0
+stock4 and stock1:0.7442215964237597
+common_items_len:41.0
+stock4 and stock2:0.05680229521341071
+common_items_len:41.0
+stock4 and stock3:0.7688275369177674
+common_items_len:41.0
+stock4 and stock4:1.0
+stock1 and stock1:1.0
+stock1 and stock2:0.24464818849223957
+stock1 and stock3:0.5809519463017401
+stock1 and stock4:0.7442215964237597
+stock2 and stock1:0.24464818849223957
+stock2 and stock2:1.0
+stock2 and stock3:0.010676463600379672
+stock2 and stock4:0.05680229521341071
+stock3 and stock1:0.5809519463017401
+stock3 and stock2:0.010676463600379672
+stock3 and stock3:1.0
+stock3 and stock4:0.7688275369177674
+stock4 and stock1:0.7442215964237597
+stock4 and stock2:0.05680229521341071
+stock4 and stock3:0.7688275369177674
+stock4 and stock4:1.0
+stock0and stock0:1.0
+stock0and stock1:0.24464818849223957
+stock0and stock2:0.5809519463017401
+stock0and stock3:0.7442215964237597
+stock1and stock0:0.24464818849223957
+stock1and stock1:1.0
+stock1and stock2:0.010676463600379672
+stock1and stock3:0.05680229521341071
+stock2and stock0:0.5809519463017401
+stock2and stock1:0.010676463600379672
+stock2and stock2:1.0
+stock2and stock3:0.7688275369177674
+stock3and stock0:0.7442215964237597
+stock3and stock1:0.05680229521341071
+stock3and stock2:0.7688275369177674
+stock3and stock3:1.0
+stock0and stock0:1.0
+stock0and stock1:0.24464818849223957
+stock0and stock2:0.5809519463017401
+stock0and stock3:0.7442215964237597
+stock1and stock0:0.24464818849223957
+stock1and stock1:1.0
+stock1and stock2:0.010676463600379672
+stock1and stock3:0.05680229521341071
+stock2and stock0:0.5809519463017401
+stock2and stock1:0.010676463600379672
+stock2and stock2:1.0
+stock2and stock3:0.7688275369177674
+stock3and stock0:0.7442215964237597
+stock3and stock1:0.05680229521341071
+stock3and stock2:0.7688275369177674
+stock3and stock3:1.0
+stock0 and stock0的相关系数为:1.0
+stock0 and stock1的相关系数为:0.24464818849223957
+stock0 and stock2的相关系数为:0.5809519463017401
+stock0 and stock3的相关系数为:0.7442215964237597
+stock1 and stock0的相关系数为:0.24464818849223957
+stock1 and stock1的相关系数为:1.0
+stock1 and stock2的相关系数为:0.010676463600379672
+stock1 and stock3的相关系数为:0.05680229521341071
+stock2 and stock0的相关系数为:0.5809519463017401
+stock2 and stock1的相关系数为:0.010676463600379672
+stock2 and stock2的相关系数为:1.0
+stock2 and stock3的相关系数为:0.7688275369177674
+stock3 and stock0的相关系数为:0.7442215964237597
+stock3 and stock1的相关系数为:0.05680229521341071
+stock3 and stock2的相关系数为:0.7688275369177674
+stock3 and stock3的相关系数为:1.0
+stock0 and stock0的相关系数为:1.0
+stock0 and stock1的相关系数为:0.24464818849223957
+stock0 and stock2的相关系数为:0.5809519463017401
+stock0 and stock3的相关系数为:0.7442215964237597
+stock1 and stock0的相关系数为:0.24464818849223957
+stock1 and stock1的相关系数为:1.0
+stock1 and stock2的相关系数为:0.010676463600379672
+stock1 and stock3的相关系数为:0.05680229521341071
+stock2 and stock0的相关系数为:0.5809519463017401
+stock2 and stock1的相关系数为:0.010676463600379672
+stock2 and stock2的相关系数为:1.0
+stock2 and stock3的相关系数为:0.7688275369177674
+stock3 and stock0的相关系数为:0.7442215964237597
+stock3 and stock1的相关系数为:0.05680229521341071
+stock3 and stock2的相关系数为:0.7688275369177674
+stock3 and stock3的相关系数为:1.0
+stock0 and stock0的相关系数为:1.0
+stock0 and stock1的相关系数为:-0.34560741968170583
+stock0 and stock2的相关系数为:0.5637872836681472
+stock0 and stock3的相关系数为:-0.24956457931807813
+stock1 and stock0的相关系数为:-0.34560741968170583
+stock1 and stock1的相关系数为:1.0
+stock1 and stock2的相关系数为:-0.7532931275001256
+stock1 and stock3的相关系数为:0.9429027260402209
+stock2 and stock0的相关系数为:0.5637872836681472
+stock2 and stock1的相关系数为:-0.7532931275001256
+stock2 and stock2的相关系数为:1.0
+stock2 and stock3的相关系数为:-0.7534069463710911
+stock3 and stock0的相关系数为:-0.24956457931807813
+stock3 and stock1的相关系数为:0.9429027260402209
+stock3 and stock2的相关系数为:-0.7534069463710911
+stock3 and stock3的相关系数为:1.0
+stock1 and stock1的相关系数为:1.0
+stock1 and stock2的相关系数为:-0.34560741968170583
+stock1 and stock3的相关系数为:0.5637872836681472
+stock1 and stock4的相关系数为:-0.24956457931807813
+stock2 and stock1的相关系数为:-0.34560741968170583
+stock2 and stock2的相关系数为:1.0
+stock2 and stock3的相关系数为:-0.7532931275001256
+stock2 and stock4的相关系数为:0.9429027260402209
+stock3 and stock1的相关系数为:0.5637872836681472
+stock3 and stock2的相关系数为:-0.7532931275001256
+stock3 and stock3的相关系数为:1.0
+stock3 and stock4的相关系数为:-0.7534069463710911
+stock4 and stock1的相关系数为:-0.24956457931807813
+stock4 and stock2的相关系数为:0.9429027260402209
+stock4 and stock3的相关系数为:-0.7534069463710911
+stock4 and stock4的相关系数为:1.0
+stock1 and stock1的相关系数为:1.0
+stock1 and stock2的相关系数为:-0.34560741968170583
+stock1 and stock3的相关系数为:0.5637872836681472
+stock1 and stock4的相关系数为:-0.24956457931807813
+stock2 and stock1的相关系数为:-0.34560741968170583
+stock2 and stock2的相关系数为:1.0
+stock2 and stock3的相关系数为:-0.7532931275001256
+stock2 and stock4的相关系数为:0.9429027260402209
+stock3 and stock1的相关系数为:0.5637872836681472
+stock3 and stock2的相关系数为:-0.7532931275001256
+stock3 and stock3的相关系数为:1.0
+stock3 and stock4的相关系数为:-0.7534069463710911
+stock4 and stock1的相关系数为:-0.24956457931807813
+stock4 and stock2的相关系数为:0.9429027260402209
+stock4 and stock3的相关系数为:-0.7534069463710911
+stock4 and stock4的相关系数为:1.0
