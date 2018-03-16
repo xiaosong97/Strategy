@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="json-lib-0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/json-lib-0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/garch.jar!/" />
+      <root url="jar://D:/MATLAB/toolbox/javabuilder/jar/javabuilder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/json-lib-0.9.jar!/" recursive="false" />
+  </library>
+</component>

@@ -9,8 +9,8 @@ import jxl.read.biff.BiffException;
 public class ExcelDataGet {
     private String date;
     private String stockName;
-    private int stockNum = 4;
-    private int cpNum = 43;
+    private int stockNum = 1;
+    private int cpNum = 246;
     private double cp[][] = new double[stockNum][cpNum];    //存储stockNum支股票最近cpNum天的收盘价
     public int getStockNum(){
         return  stockNum;
@@ -40,8 +40,7 @@ public class ExcelDataGet {
                 for (int i = 0;i<sheet.getRows();i++){
                     //sheet.getColumns()返回改业的总列数
                     for (int j = 0;j<sheet.getColumns();j++){
-
-                        if (j==3){
+                        if (j==0){
                            cp[index][i] = Double.parseDouble(sheet.getCell(j,i).getContents());
                         }
                     }
